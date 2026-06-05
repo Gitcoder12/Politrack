@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PR001",
+    "politician_id": "P001",
+    "title": "Build 5 new government schools",
+    "category": "education",
+    "made_on": "2023-11-15",
+    "deadline": "2025-12-31",
+    "status": "in_progress",
+    "completion_pct": 40,
+    "evidence_url": null,
+    "updates": [
+      { "date": "2024-08-01", "text": "2 schools completed and inaugurated." }
+    ]
+  },
+  {
+    "id": "PR002",
+    "politician_id": "P001",
+    "title": "Repair all ward roads within 6 months",
+    "category": "infrastructure",
+    "made_on": "2023-12-01",
+    "deadline": "2024-06-01",
+    "status": "broken",
+    "completion_pct": 15,
+    "evidence_url": null,
+    "updates": []
+  },
+  {
+    "id": "PR003",
+    "politician_id": "P002",
+    "title": "Set up free Wi-Fi zones in 10 public areas",
+    "category": "technology",
+    "made_on": "2024-06-15",
+    "deadline": "2025-06-01",
+    "status": "delivered",
+    "completion_pct": 100,
+    "evidence_url": "https://example.com/news/wifi-zones",
+    "updates": [
+      { "date": "2025-05-20", "text": "All 10 zones live. 3,000+ daily users." }
+    ]
+  }
+]

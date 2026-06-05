@@ -1,0 +1,22 @@
+[
+  {
+    "id": "P001",
+    "name": "Sample Politician A",
+    "party": "Party X",
+    "constituency": "Hyderabad Central",
+    "position": "MLA",
+    "term_start": "2023-12-01",
+    "term_end": "2028-11-30",
+    "performance_score": 62
+  },
+  {
+    "id": "P002",
+    "name": "Sample Politician B",
+    "party": "Party Y",
+    "constituency": "Secunderabad",
+    "position": "MP",
+    "term_start": "2024-06-01",
+    "term_end": "2029-05-31",
+    "performance_score": 48
+  }
+]
